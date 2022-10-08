@@ -11,7 +11,7 @@
 
 🎓 I graduated from Anadolu University, Department of Sociology.
 
-🔗nazmiye.akdogan1@gmail.com
+
 </b></b>
 
 
