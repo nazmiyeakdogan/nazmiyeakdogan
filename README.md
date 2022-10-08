@@ -1,15 +1,17 @@
-### Hi there 👋, my name is Nazmiye,
+### Hi there 👋, my name is Nazmiye,</b></b>
 
 
 ✨ I am Software Development Engineer in Test.
 
-💻 I’m currently working on  Techno Study Inc. 
+💻 I’m currently working on  Techno Study Inc.
 
-📢 I'm open to new technologies.
+🔗[link: ](https://mail.google.com/mail/u/1/#inbox)
 
 💬 Ask me about Manual Testing & Automation Testing.
 
-🎓 I graduated from Anadolu University, Department of Sociology.
+📢 I'm open to new technologies.
+
+🎓 I graduated from Anadolu University, Department of Sociology. </b></b>
 
 
 
