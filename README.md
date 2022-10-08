@@ -12,9 +12,7 @@
 🎓 I graduated from Anadolu University, Department of Sociology.
 
 
-🔖Technical Skills 👇
-
-Java ✨ Selenium ✨ TestNG ✨ Cucumber ✨ Postman
+🔖Technical Skills: Java ✨ Selenium ✨ TestNG ✨ Cucumber ✨ Postman
 REST Assured ✨ MySQL ✨ JDBC ✨ Apache POI
 HTML ✨ POM ✨ Jira ✨ GitHub ✨ Jenkins ✨ BDD ✨ Gherkin Language
 
