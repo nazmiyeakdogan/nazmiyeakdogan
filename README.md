@@ -5,13 +5,14 @@
 
 💻 I’m currently working on  Techno Study Inc.
 
-🔗[link: ](https://mail.google.com/mail/u/1/#inbox)
-
 💬 Ask me about Manual Testing & Automation Testing.
 
 📢 I'm open to new technologies.
 
-🎓 I graduated from Anadolu University, Department of Sociology. </b></b>
+🎓 I graduated from Anadolu University, Department of Sociology.
+
+🔗nazmiye.akdogan1@gmail.com
+</b></b>
 
 
 
