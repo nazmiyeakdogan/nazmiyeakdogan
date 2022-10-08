@@ -9,6 +9,14 @@ Skills: Java/Selenium/TestNG/Cucumber/ Postman/Rest Assured/MySQL/JDBC/ Apache P
 
 - 🔭 I’m currently working on  Techno Study Inc 
 
+## technical skills
+
+💻Java✨Selenium✨ TestNG✨Cucumber✨Postman✨REST Assured✨MySQL✨JDBC✨Apache POI✨HTML✨POM✨Jira✨GitHub✨Jenkins
+
+Jenkins
+
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/nazmiyeakdogan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/nazmiye-akdogan/)  
 
