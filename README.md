@@ -1,9 +1,11 @@
 ### Hi there 👋, my name is Nazmiye,</b></b>
 
 
-✨ I am **Software Development Engineer in Test**.
+✨ I am **QA Automation Tester**.
 
 🪄 I'm doing manual and automation testing in the web space.
+
+🪄 I have ISTQB Foundation Level (CTFL) certificate.
 
 📢 I'm open to new technologies.
 
