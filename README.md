@@ -3,8 +3,6 @@
 
 ✨ I am **Software Development Engineer in Test**.
 
-💻 I’m currently working on  Techno Study Inc.
-
 🪄 I'm doing manual and automation testing in the web space.
 
 📢 I'm open to new technologies.
